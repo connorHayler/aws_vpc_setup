@@ -35,3 +35,29 @@
 - Go into subnet associations and select both the public and bastion subnets
 
 ![image](https://user-images.githubusercontent.com/76522579/128520992-b9ee2abc-1f45-4a2c-bcd1-2085b71efafc.png)
+
+## Setting up NACL's
+
+- Three NACL's will be created, one for each subnet
+  - Public
+    - Inbound
+
+    ![image](https://user-images.githubusercontent.com/76522579/128523235-41c0cb79-aa1d-42d1-b5c0-212cee5c0188.png)
+    
+    - Outbound
+
+    ![image](https://user-images.githubusercontent.com/76522579/128523343-ed8be9f5-a0c5-4ba0-89c3-8f1ada715597.png)
+
+
+  - Private
+    - Inbound
+
+    ![image](https://user-images.githubusercontent.com/76522579/128523527-cae67dd0-ad98-40a4-8fc0-defaaf017711.png)
+
+    - Outbound
+
+    ![image](https://user-images.githubusercontent.com/76522579/128523593-17754436-8f58-448c-86b7-fc7a7f72aee2.png)
+
+  - Bastion
+    - Inbound
+    - Outbound
