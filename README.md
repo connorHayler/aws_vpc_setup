@@ -60,4 +60,10 @@
 
   - Bastion
     - Inbound
+
+    ![image](https://user-images.githubusercontent.com/76522579/128524055-66be6e85-3296-49fd-806c-2f2839bdeafc.png)
+
     - Outbound
+
+    ![image](https://user-images.githubusercontent.com/76522579/128524140-83582f6d-cb0d-47da-926c-1734a15efb4b.png)
+
